@@ -1,8 +1,7 @@
 /* practicing c. getting card values from their names */
-
 #include <stdio.h>
-int main()
+int main(void)
 {
-    puts("with proper grammar, but the outcome is a piece of art, \n");
-    return 0;
+puts("Programming is like building a multilingual puzzle");
+return (0);
 }
